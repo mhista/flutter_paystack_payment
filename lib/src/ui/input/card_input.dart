@@ -1,6 +1,6 @@
 // ignore_for_file: no_logic_in_create_state
 
-import 'package:credit_card_scanner/models/card_details.dart';
+import 'package:card_scanner/card_scanner.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_paystack_payment/src/common/card_utils.dart';
 import 'package:flutter_paystack_payment/src/common/scan_util.dart';
